@@ -1,0 +1,28 @@
+/* ==============================
+
+    C O L O U R
+
+   ============================= */
+
+html {
+    --dark-text: #13381f;
+    --light-text: #fcfcfa;
+    --cream-text: #f6ead0;
+    --medium-dark-text: #055723;
+    --page-background: #A9D0D9;
+    --main-background: #F2C230;
+    --header-background: #F2E5A2;
+    --intro-background: #F29F05;
+    --dark-background: #002F15;
+    --portrait-background: #e06c10;
+    --landscape-background: #F23A29;
+    --dark-border-colour: #08331c;
+    --button-colour: #402320;
+    --dark-green: #13632e;
+    --slide-out-menu-background: rgba(233, 240, 234, 0.93);
+    --footer-background: #73645C;
+    --off-white: #fcfcf5;
+    --description-text: #8c8e8d;
+    --description-text-colour: #fcfcfa;
+    --light-silver: #fcfcfa;
+}
